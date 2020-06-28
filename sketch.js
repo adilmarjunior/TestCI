@@ -8,6 +8,10 @@ class Sketch{
     return a-b;
   }
 
+  static multiplicate(a, b){
+    return a*b;
+  }
+
 }
 
 module.exports = Sketch;
