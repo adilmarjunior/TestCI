@@ -9,5 +9,5 @@ test('adds 5 - 2 to equal 3', () => {
 });
 
 test('adds 5 * 3 to equal 15', () => {
-  expect(Sketch.multiplicate(5,3)).toBe(15);
+  expect(Sketch.multiplicate(5,3)).toBe(14);
 });
